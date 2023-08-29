@@ -1,5 +1,9 @@
 # oomox-gruvish
-This is a Gruvbox Light theme for GTK I made a while back.
+
+![](scrn.png)
+
+This is a Gruvbox Light theme for GTK I made a while back for myself.
+It's probably good for other people.
 
 ## Installation
 ```
@@ -10,4 +14,4 @@ $ # Profit
 ```
 
 ## License
-0-BSD/Public Domain. If you can make something better, do it.
+0BSD/Public Domain. If you can make something better, do it.
